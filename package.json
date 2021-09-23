@@ -1,0 +1,12 @@
+{
+  "name": "solidity-hashblunt",
+  "version": "1.0.0",
+  "main": "hash.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.4.7"
+  },
+  "scripts": {
+    "hash": "yarn node hash.js"
+  }
+}
